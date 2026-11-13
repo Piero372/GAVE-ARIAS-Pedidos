@@ -1,5 +1,5 @@
 def calcular_subtotal(precio, cantidad):
-    return precio  # Error inicial intencional
+    return precio * cantidad  # Correccion aplicada
 
 precio = 80
 cantidad = 3
